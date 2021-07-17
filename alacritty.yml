@@ -1,6 +1,4 @@
-shell:
-  program: "C:\\Windows\\System32\\wsl.exe"
-
+# See https://github.com/alacritty/alacritty/blob/master/alacritty.yml for available options.
 font:
   size: 14.0
   normal:
